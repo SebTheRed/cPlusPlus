@@ -1,0 +1,50 @@
+Introduction to C++ and Installing the IDE for C++
+Understanding the Structure of a Basic C++ Program
+Learning About Variables and Data Types in C++
+Familiarizing Yourself with C++ Operators
+Introduction to Conditional Statements: if, else if, else
+Diving Deeper Into Logical Operators and Boolean Expressions
+Introduction to Loop Structures: for, while, and do-while
+Understanding and Using Arrays in C++
+Understanding the Basics of Strings and C++ String Library
+Getting Started with Functions and Prototypes in C++
+Delving Deeper into Functions: Pass by Value vs Pass by Reference
+Introduction to Recursion in C++
+Exploring File Input and Output Operations in C++
+Learning about Pointers and Memory Management in C++
+Understanding Dynamic Memory Allocation: new and delete
+Grasping the Basics of Structures in C++
+Understanding and Implementing Enums and Unions
+Introduction to Object-Oriented Programming in C++
+Learning About Classes and Objects in C++
+Understanding the Concepts of Encapsulation and Data Hiding
+Introduction to Constructors and Destructors in C++
+Exploring Inheritance and Polymorphism in C++
+Getting Started with Overloading Functions and Operators in C++
+Introduction to Abstract Classes and Pure Virtual Functions
+Learning about Exception Handling in C++
+Understanding Namespaces and its Use in C++
+Exploring the STL - Standard Template Library
+Delving into C++ Templates and Generic Programming
+Working with C++ Iterators
+Understanding and Implementing C++ Vectors
+Introduction to C++ Lists
+Understanding and Implementing C++ Sets and Multisets
+Getting Started with C++ Maps and Multimaps
+Introduction to C++ Stacks and Queues
+Learning About C++ Deques and Priority Queues
+Understanding and Implementing C++ Algorithms
+Exploring C++ Bit Manipulation
+Understanding and Using Lambda Expressions in C++
+Exploring the C++ Preprocessor and Preprocessor Directives
+Understanding and Using RTTI - Run Time Type Identification
+Introduction to Multithreading in C++
+Understanding and Implementing Synchronization in C++
+Getting Started with Regular Expressions in C++
+Learning about C++11 New Features
+Exploring C++14 and C++17 New Features
+Introduction to C++20 New Features
+Understanding and Implementing Smart Pointers in C++
+Exploring the C++ Memory Model and Atomics
+Understanding C++ Concurrency and Parallelism
+Mastering Best Practices and Debugging Techniques in C++
